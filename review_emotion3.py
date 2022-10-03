@@ -1,4 +1,3 @@
-#https://www.geeksforgeeks.org/emotion-classification-using-nrc-lexicon-in-python/
 from nrclex import NRCLex
 #from final_amazon import prod_name
 import pandas as pd
